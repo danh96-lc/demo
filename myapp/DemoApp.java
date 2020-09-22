@@ -23,7 +23,7 @@ import java.util.Collection;
 @SpringBootApplication
 @EnableConfigurationProperties({LiquibaseProperties.class, ApplicationProperties.class})
 public class DemoApp {
-
+    String a;
     private static final Logger log = LoggerFactory.getLogger(DemoApp.class);
 
     private final Environment env;
