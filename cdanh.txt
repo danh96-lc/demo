@@ -1,3 +1,4 @@
 ten: cong danh 
 tuoi: 24
 que: binh thuan
+ton giao: cong giao
