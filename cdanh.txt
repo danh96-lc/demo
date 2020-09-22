@@ -1,4 +1,9 @@
 ten: cong danh 
 tuoi: 24
 que: binh thuan
+<<<<<<< HEAD
 ton giao cong giao
+=======
+ton giao: cong giao
+so thich
+>>>>>>> develop
