@@ -1,1 +1,3 @@
-cong danh 
+ten: cong danh 
+tuoi: 24
+que: binh thuan
