@@ -1,3 +1,8 @@
 ten: cong danh 
 tuoi: 24
+<<<<<<< HEAD
 
+=======
+que: binh thuan
+ton giao cong giao
+>>>>>>> 13c8fe5f0c7c662c5be04ed0cf8b38448925864b
